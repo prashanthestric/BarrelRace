@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"
+        android:text="A barrel race is a rodeo event in which the rider starts at a gate and must ride completely around three barrels. That is, he or she must circle each of the barrels. The object is to get the fastest time without knocking over any of the barrels. Your horse starts out at the gate, and you must maneuver him around the three barrels and back through the gate. You do this by tilting your device one way or another. Hitting any of the barrels means you lose, and must start over. Hitting the fences around the course will add 5 seconds to your time, but you get to continue the race. Enjoy Your Ride!... " />
+
+</RelativeLayout>
