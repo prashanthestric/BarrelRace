@@ -25,6 +25,9 @@ import appsrox.example.accelerometer.R;
 /**
  * Custom view object that defines the main game subscreen consisting of the horse, barrels and the race course
  * It also manages the accelerometer readings.
+ * @author Prashanth Govindaraj - pxg142030
+ * @author Kamesh Santhanam - kxs142530
+ *
  */
 public class GameView extends View implements SensorEventListener {
 	

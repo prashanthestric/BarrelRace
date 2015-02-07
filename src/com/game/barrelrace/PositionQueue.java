@@ -2,6 +2,8 @@ package com.game.barrelrace;
 
 /**
  * A FIFO queue of capacity 2, to remember the horse's last position.
+ * @author Prashanth Govindarag - pxg142030
+ *
  */
 public class PositionQueue {
 	

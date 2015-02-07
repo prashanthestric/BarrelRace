@@ -23,6 +23,9 @@ import android.widget.SectionIndexer;
 import android.widget.TextView;
 
 /**
+ * 
+ * @author Kamesh Santhanam  -  kxs142530
+ *
  * Adapter for listView of contacts in MainActivity 
  */
 public class CustomListViewAdapter extends ArrayAdapter<HighScore>{

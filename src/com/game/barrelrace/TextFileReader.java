@@ -9,6 +9,8 @@ import java.util.Comparator;
 
 /**
  * The TextFileReader class contains the properties and methods needed to read data from the text file.
+ * @author Prashanth Govindaraj  -  pxg142030
+ *
  * 
  */
 public class TextFileReader {

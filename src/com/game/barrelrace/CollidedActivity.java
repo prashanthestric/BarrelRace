@@ -14,6 +14,7 @@ import appsrox.example.accelerometer.R;
 
 /**
  * Activity to indicate user that the horse has collided with the barrel
+ * @author Kamesh Santhanam - kxs142530
  *
  */
 public class CollidedActivity extends Activity{

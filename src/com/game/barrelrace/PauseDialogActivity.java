@@ -13,6 +13,8 @@ import appsrox.example.accelerometer.R;
 
 /**
  * Dialog activity of the pause menu, consisting of resume, restart and exit buttons.
+ * @author Prashanth Govindaraj - pxg142030
+ *
  */
 public class PauseDialogActivity extends Activity{
 	Button resumeButton,exitButton,restartButton;

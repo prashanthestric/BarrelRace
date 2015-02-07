@@ -29,6 +29,8 @@ import android.widget.TextView;
 
 /**
  * Main game screen which contains the custom game view, timer, start and pause buttons.
+ * @author Kamesh Santhanam - kxs142530
+ *
  */
 public class MainActivity extends Activity {
 	

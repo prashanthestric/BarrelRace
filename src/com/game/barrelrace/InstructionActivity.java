@@ -8,6 +8,7 @@ import appsrox.example.accelerometer.R;
 
 /**
  * Dialog Activity to display game instructions.
+ * @author Prashanth PC
  */
 public class InstructionActivity extends Activity{
 		@Override

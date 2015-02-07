@@ -11,7 +11,8 @@ import android.widget.ListView;
 import appsrox.example.accelerometer.R;
 
 /**
- * Activity to list the top 10 high scores.
+ * Activity to list the top 10 high scores. 
+ * @author Kamesh Santhanam - kxs142530
  *
  */
 public class HighScoresActivity extends Activity{
