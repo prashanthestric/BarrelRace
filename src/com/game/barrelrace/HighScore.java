@@ -2,7 +2,6 @@ package com.game.barrelrace;
 
 /**
  * Data Model to store a player's high score.
- * @author Prashanth Govindaraj - pxg142030
  *
  */
 public class HighScore {

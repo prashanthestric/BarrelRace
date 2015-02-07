@@ -2,7 +2,6 @@ package com.game.barrelrace;
 
 /**
  * Event listener to handle game completion.
- * @author Kamesh Santhanam - kxs142530
  *
  */
 public interface GameCompletionListener {

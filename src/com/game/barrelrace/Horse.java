@@ -4,8 +4,6 @@ import android.util.Log;
 
 /**
  * Defines the "horse" object.
- * @author Prashanth Govindaraj - pxg142030
- * @author Kamesh Santhanam - kxs142530
  */
 public class Horse {
 	public float dt = 0.5f;

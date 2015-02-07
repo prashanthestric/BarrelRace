@@ -9,8 +9,7 @@ import android.widget.Button;
 import appsrox.example.accelerometer.R;
 
 /**
- * Home Screen of the app, from where the user can start a new game, view high scores or instructions. 
- * @author Prashanth PC
+ * Home Screen of the app, from where the user can start a new game, view high scores or instructions.
  *
  */
 public class HomeScreenActivity extends Activity{

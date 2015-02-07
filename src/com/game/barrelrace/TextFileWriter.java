@@ -9,8 +9,6 @@ import java.util.Comparator;
 
 /**
  *The TextFileWriter class contains the properties and methods required for writing the current data to the file. 
- * @author Kamesh Santhanam  -  kxs142530
- *
  * 
  */
 public class TextFileWriter {

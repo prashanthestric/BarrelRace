@@ -2,8 +2,6 @@ package com.game.barrelrace;
 
 /**
  * Performs the function of stop clock.
- * @author Kamesh Santhanam - kxs142530
- *
  */
 public class StopClock { 
 
